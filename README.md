@@ -20,7 +20,7 @@ npm i, npm i fs, npm i inquirer@8.2.4
 
 ## Usage
 
-Run the command ```node index.js``` and you will be prompted to answer a series of questions. A  README will be generated and you can move that to your projects folder.
+Run the command ```node index.js``` and you will be prompted to answer a series of questions. A README will be generated and you can move that to your projects folder.
 
 ## Contributing
 
